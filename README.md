@@ -35,9 +35,9 @@ func main() {
 ```
 
 ### API
-#### JSON.Parse(jsonString string) (map[string]interface{}, error)
-#### JSON.Stringify(jsonContent interface{}) (string, error)
-#### JSON.Byteify(jsonContent interface{}) ([]byte, error)
+- JSON.Parse(jsonString string) (map[string]interface{}, error)
+- JSON.Stringify(jsonContent interface{}) (string, error)
+- JSON.Byteify(jsonContent interface{}) ([]byte, error)
 
 ### Contributing
 - Fork this repo
