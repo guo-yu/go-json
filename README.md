@@ -39,6 +39,11 @@ func main() {
 - JSON.Stringify(jsonContent interface{}) (string, error)
 - JSON.Byteify(jsonContent interface{}) ([]byte, error)
 
+### Tests
+```bash
+$ go test
+```
+
 ### Contributing
 - Fork this repo
 - Clone your repo
