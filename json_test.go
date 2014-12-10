@@ -1,5 +1,6 @@
 package JSON
 
+// import "fmt"
 import "testing"
 
 func TestJSONParse(t *testing.T) {
@@ -11,6 +12,8 @@ func TestJSONParse(t *testing.T) {
       "love": ["coding", "xbox"]
     }
   }`)
+
+	// fmt.Println(me["meta"].(map[string]interface{})["love"])
 
 	if err != nil {
 		t.Error(err)
