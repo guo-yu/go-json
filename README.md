@@ -23,7 +23,7 @@ func main() {
 
   fmt.Println(me["name"])
 
-  dogge := map[string]interface{
+  dogge := map[string]interface{}{
     "age": 8,
     "name": "dogge"
   }
