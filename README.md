@@ -1,4 +1,4 @@
-## go-json ![NPM version](https://img.shields.io/npm/v/go-json.svg?style=flat) 
+## Go JSON
 
 a simple JSON parser in Golang
 
